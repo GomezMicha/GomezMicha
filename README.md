@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi I'm Micha!
+
+I am a front-end developer who enjoys designing, creating, and programming things for the web. Focused on finding simple and easy solutions to problems, and writing performant, high-quality, and functional code.  
+
+I love learning new things, reading, drawing, and spending lots of time with the love ones.
 
 <!--
 **GomezMicha/GomezMicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
